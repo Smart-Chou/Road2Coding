@@ -1,0 +1,22 @@
+{
+  "default": true,
+  "MD003": {
+    "style": "atx"
+  },
+  "MD004": {
+    "style": "dash"
+  },
+  "MD013": false,
+  "MD024": {
+    "allow_different_nesting": true
+  },
+  "MD033": {
+    "allowed_elements": ["br", "Badge", "CodeGroup", "CodeGroupItem", "p", "a", "img", "h2", "iframe"]
+  },
+  "MD035": {
+    "style": "---"
+  },
+  "MD040": false,
+  "MD041": false,
+  "MD046": false
+}
