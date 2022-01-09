@@ -37,7 +37,7 @@
 
 # **本网站内容地图**
 
-![本网站内容地图](_media/img/contentmap.3sdmma4od740.png)
+![本网站内容地图](https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/contentmap.3sdmma4od740.png)
 
 # **编程自学路线+知识大梳理**
 
@@ -366,8 +366,9 @@ _media/pdf/c.pdf
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/localsoftware.2x9vakmja2g.png" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/localsoftware.2x9vakmja2g.png" width=""/>
     </a>
+</p>
 
 这里将常用软件分为了5大类，包括：
 
@@ -433,8 +434,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/linuxos.qciprfz30dc.png" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/linuxos.qciprfz30dc.png" width=""/>
     </a>
+</p>
 
 !> 实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
 
@@ -459,8 +461,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/gcm.1sv6s8asfzc0.jpeg" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/gcm.1sv6s8asfzc0.jpeg" width=""/>
     </a>
+</p>
 
 - [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
 - [科普篇：Git和SVN对比](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
@@ -478,8 +481,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/ide.720nw0czwbs0.png" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/ide.720nw0czwbs0.png" width=""/>
     </a>
+</p>
 
 - [IDEA 2021.2升级体验](https://mp.weixin.qq.com/s/WQiHpAv4bjEIz3fghzamEA)
 - [IDEA 2021.1升级体验](https://mp.weixin.qq.com/s/dojfVvkrxru1eH8Pep7irw)
@@ -497,8 +501,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/apidocs.2qlxsrvx2vy0.png" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/apidocs.2qlxsrvx2vy0.png" width=""/>
     </a>
+</p>
 
 - [科普篇：前后端都分离了，有哪些好用的API管理系统？](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
 - [科普篇：几款常用的在线文档神器](https://mp.weixin.qq.com/s/G6-6gqYnTvEsWOGIoj16ZQ)
@@ -508,8 +513,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/ci.3iokn4xypxy0.png" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/ci.3iokn4xypxy0.png" width=""/>
     </a>
+</p>
 
 - [常用CI工具大盘点](https://mp.weixin.qq.com/s/PgoXJcJX_sm5132VGQoZ1w)
 - [Jenkins Pipeline使用入门](https://mp.weixin.qq.com/s/Y2gxBmBK2HPvr1uKUUxRYA)
@@ -922,8 +928,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/bookref.32p5e3kiqri0.jpg" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/bookref.32p5e3kiqri0.jpg" width=""/>
     </a>
+</p>
 
 > [!tip]
 > - 毫无疑问的是，对于上文提到的 **「编程基础」** 部分，有大量经典的书籍值得阅读，每一本都是大师们若干年经验的汇聚，所以学好编程基础，对于我们普通人来说，看书是一个非常直接有效的方式。
@@ -1261,7 +1268,7 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 都是纯肝货，目录如下，有需要的可以自取。
 
-![#](_media/img/rescollection.2twl61h5k0s0.jpeg)
+![#](https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/rescollection.2twl61h5k0s0.jpeg)
 
 - 下载链接：<https://pan.baidu.com/s/1jEjcF96iVAXEXaadE1V6RQ>
 - 提取码：f23d
@@ -1457,8 +1464,9 @@ sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">
 
 <p align="left">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="_media/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/Smart-Chou/Road2Coding/docs/_media/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
     </a>
+</p>
 
 # 本站开源地址
 
